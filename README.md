@@ -2,7 +2,6 @@
 
 Dungeon Escape is a fun, interactive, terminal-based Python game where players must survive a mysterious dungeon by making smart choices. Each room presents random challenges such as monsters, traps, or health rewards.
 
-
 ---
 
 ## 🎮 Game Features
